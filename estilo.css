@@ -1,0 +1,26 @@
+#principal {
+  border: solid 1px;
+  width: 80%;
+  margin: 0% auto;
+  padding: 10px;
+}
+#mifoto {
+  border: solid 5px;
+}
+legend {
+  border: solid 2px black;
+  padding: 3px;
+  font-weight: bold;
+  border-radius: 15px;
+  background-color: deepskyblue;
+}
+body {
+  background-image: url(fondocv.jpg);
+  background-size: 100%;
+}
+footer {
+  color: white;
+}
+fieldset {
+  border-color: black;
+}
